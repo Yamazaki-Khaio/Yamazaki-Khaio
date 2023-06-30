@@ -4,7 +4,7 @@
 Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em programação e interesse em desenvolvimento de software. Atualmente, participo de bolsa de Extensão no programa PIBX/PROEX e atuo como membro suplente do Diretório Acadêmico.
 
 - 💼 Em busca de Estagio
-- 👨‍🎓 Graduando em Engenharia de Computação - UEFS
+
 
 <!--
 Here are some ideas to get you started:
