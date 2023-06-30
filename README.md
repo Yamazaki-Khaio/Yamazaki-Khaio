@@ -1,7 +1,8 @@
 ## Oiee!!, Yamazaki Khaio aqui... Desenvolverdor web full stack!🖖👋
 
-- 👨‍🎓 About me:
-- Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em programação e interesse em desenvolvimento de software. Atualmente, participo de bolsa de Extensão no programa PIBX/PROEX e atuo como membro suplente do Diretório Acadêmico.
+- 👨‍🎓 About me
+- 
+Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em programação e interesse em desenvolvimento de software. Atualmente, participo de bolsa de Extensão no programa PIBX/PROEX e atuo como membro suplente do Diretório Acadêmico.
 
 - 💼 Em busca de Estagio
 
