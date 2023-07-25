@@ -44,6 +44,6 @@ Um pouco das minhas atividade aqui!
   <img align="center" alt="Nextjs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
   <img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;
   
-  ![snake gif](https://github.com/Yamazaki-Khaio/Yamazaki-Khaio/blob/output/github-contribution-grid-snake.gif)
+  ![snake svg](https://github.com/Yamazaki-Khaio/Yamazaki-Khaio/blob/output/github-contribution-grid-snake.svg)
 </div>
 
