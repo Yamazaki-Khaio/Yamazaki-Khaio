@@ -2,9 +2,9 @@
 
 - 👨‍🎓 About me
 
-    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com     habilidades em programação e interesse em desenvolvimento de software. Atualmente, participo de bolsa de Extensão no programa PIBX/PROEX e     atuo como membro suplente do Diretório Acadêmico.
+    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com     habilidades em programação e interesse em desenvolvimento de software. Atualmente, participeo atualmente do projeto pensamento computacional e atuo como membro do Diretório Acadêmico.
 
-- 💼 Em busca de Estagio
+- 💼 Atuando como Desenvolver Jr na Decisão Sistemas
 
 
 <!--
@@ -38,6 +38,7 @@ Um pouco das minhas atividade aqui!
   <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
   <img align="center" alt="TS" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
   <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+    <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;&nbsp;
   <img align="center" alt="Vuejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
   <img align="center" alt="JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
