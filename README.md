@@ -4,7 +4,7 @@
 
     Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com     habilidades em programação e interesse em desenvolvimento de software. Atualmente, participeo atualmente do projeto pensamento computacional e atuo como membro do Diretório Acadêmico.
 
-- 💼 Atuando como Desenvolver Jr na Decisão Sistemas
+- 💼 Atuando como Desenvolver Pleno na Decisão Sistemas
 
 
 <!--
@@ -24,6 +24,7 @@ Aqui estão alguns dos meus meios de contatos!
 <div>
 <a href="https://www.linkedin.com/in/kaio-geovan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:kaio.encompuefs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:kfonseca@ecomp.uefs.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
 </div>
            
