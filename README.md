@@ -4,7 +4,6 @@
 
     Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com     habilidades em programação e interesse em desenvolvimento de software. Atualmente, participeo atualmente do projeto pensamento computacional e atuo como membro do Diretório Acadêmico.
 
-- 💼 Atuando como Desenvolver Pleno na Decisão Sistemas
 
 
 <!--
