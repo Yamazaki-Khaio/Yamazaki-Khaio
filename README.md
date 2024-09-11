@@ -2,7 +2,7 @@
 
 - 👨‍🎓 About me
 
-    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana - Bahia, com habilidades em computação e interesse em desenvolvimento de software. Atualmente trabalho como desenvolvedor na Decisão Sistemas.
+    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em computação e interesse em desenvolvimento de software. Atualmente trabalho como desenvolvedor na Decisão Sistemas.
 
 
 
@@ -27,12 +27,18 @@ Aqui estão alguns dos meus meios de contatos!
     
 </div>
            
-Um pouco das minhas atividade aqui!
-
+## Um pouco das minhas atividades aqui!
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yamazaki-Khaio&show_icons=true&count_private=true&theme=monokai"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yamazaki-Khaio&show_icons=true&include_all_commits=true&count_private=true&layout=donut&langs_count=10&theme=monokai"/>
+  <!-- Estatísticas GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yamazaki-Khaio&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=monokai&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
+
+  <!-- Principais linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yamazaki-Khaio&show_icons=true&count_private=true&layout=compact&langs_count=8&theme=monokai" alt="Linguagens mais usadas"/>
+
+  <!-- Gráfico de contribuições (todos os anos) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamazaki-Khaio&theme=monokai" alt="Contribuições ao longo dos anos"/>
 </div>
+
 
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
