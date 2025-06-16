@@ -1,8 +1,8 @@
-## Oiee!!, Yamazaki Khaio aqui... Desenvolverdor web full stack!🖖👋
+## Oié!!, Yamazaki Khaio aqui... Desenvolverdor web full stack!🖖👋
 
 - 👨‍🎓 About me
 
-    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em computação e interesse em desenvolvimento de software. Atualmente trabalho como desenvolvedor na Decisão Sistemas.
+    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em computação e engenharia. Atuando como desenvolvedor, utilizando metodologia agil e ciclo devOps.
 
 
 
