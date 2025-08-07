@@ -2,7 +2,7 @@
 
 - 👨‍🎓 About me
 
-    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019.2 na Universidade Estadual de Feira de Santana, com habilidades em computação e engenharia. Atuando como desenvolvedor, utilizando metodologia agil e ciclo devOps.
+    Me chamo Kaio Geovan e sou estudante de engenharia de Computação, ingressei em 2019 na Universidade Estadual de Feira de Santana, com habilidades em computação e engenharia. Atuando como desenvolvedor, utilizando metodologia agil, ciclo devOps e soluções de problemas reais.
 
 
 
